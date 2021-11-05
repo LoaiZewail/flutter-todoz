@@ -1,6 +1,6 @@
 # Todos App
 
-Simple todo app implementing all crud operations to create , read , update and delete todos.
+Simple todo app implementing all CRUD operations to create , read , update and delete todos.
 
 
 ## Packages
